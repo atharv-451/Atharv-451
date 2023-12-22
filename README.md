@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Tensorflow Framework and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://atharv-451.github.io/Portfolio/](https://atharv-451.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Here](https://atharv-451.github.io/Portfolio/)
 
 - 💬 Ask me about **Python, Android Development**
 
