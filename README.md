@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **katharv586@gmail.com / atharv451@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1P3WHGPtrYiPVQW35DkzsZ41DTqmXB-re/view?usp=sharing)
+- 📄 Know about my Resume [Here](https://drive.google.com/file/d/1P3WHGPtrYiPVQW35DkzsZ41DTqmXB-re/view?usp=sharing)
 
 - ⚡ Fun fact: **I once debugged a tricky issue for hours, only to discover it was a single missing semicolon causing the chaos. Attention to detail is everything in the world of coding!**
 
