@@ -6,7 +6,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Tensorflow Framework and Deep Learning**
+- 🌱 I’m currently learning **Tensorflow Framework, Deep Learning and MERN Stack projects**
 
 - 👨‍💻 All of my projects are available at [Here](https://atharv-451.github.io/Portfolio/)
 
